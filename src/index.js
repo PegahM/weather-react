@@ -28,12 +28,12 @@ function App() {
             />
             <span className="temp">19</span>
             <span className="units">
-              <a href="#">
+              <a href="./">
                 {" "}
                 <span id="cel-link"> °C</span>
               </a>
               |
-              <a href="#" id="degree-link">
+              <a href="./" id="degree-link">
                 <span id="faren-link">°F</span>
               </a>
             </span>
